@@ -1,11 +1,10 @@
-The Venus Project Database
+The Venus Project Database - RU
 ===============
-[![The Venus Project](http://civilisation2.org/wp-content/uploads/2012/03/topTVPlogo.png)](http://thevenusproject.com)
-
-## EN
->This repo is used as an info storage for most relevant information about Venus Project and all related stuff.
-Soon there will be a brief info about how to use and modify the knowledge DB to share with other GitHub people.
-Also, this git aims to structurize and compile all the necessary TVP information for later usage to cooperate with society through GitHub platform. At this moment, repo will only be available on 2 languages: EN and RU. Later, with the help of other active people, information will be properly translated to educate other activists.
+[![The Venus Project](http://i.imgur.com/0DtJ5Om.png)](http://thevenusproject.com)
 
 ## RU
 >Этот репозиторий создан для того, чтобы собрать и упорядочить всю информацию о проекте Венера, а также предоставить удобный доступ для людей, которые знакомы с платформой GitHub для дальнейшей совместной работы над видением структуры и реализации информационной составляющей проекта. Вскоре тут появится информация о том, как работать со всем этим массивом данных, и как их использовать с максимальной пользой для развития проекта. В данный момент вся информация будет доступна на 2 языках: английском и русском. В дальнейшем, с помощью толковых переводчиков будут клонированы и созданы другие базы для распространения информации среди иноязычных активистов.
+
+Структура данного репозитория будет дорабатываться и постоянно отслеживаться на соответствие со структурной составляющей других язковых веток, чтобы таким образом формировать одинаковое восприятие и понимание проекта у активистов и действующих людей из разных точек нашей планеты.
+
+Это необходимо также и для того, чтобы корректировать информационную составляющую друг-друга (например, в другой ветке появилась информация или дополнение, которого нет в этой ветке, и наоборот - тогда действуем по схеме: сравнили изменения - перевели - дополнили). В идеале было бы неплохо привести всех к пониманию информации на одном языке (например, английский), чтобы изначально сузить круг недопонимания и минимизировать языковой барьер, а затем и разработать концепцию более удобного к восприятию языка.
