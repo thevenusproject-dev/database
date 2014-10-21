@@ -1,0 +1,1 @@
+Section for meetings stuff. Don't know how to organize it yet, probably will go fully through site, cause GitHub here is useless =)

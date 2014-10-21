@@ -1,0 +1,1 @@
+Video section, where all the youtube and vimeo material will be stored - something similar with faq.
