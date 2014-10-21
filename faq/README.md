@@ -1,5 +1,5 @@
 ## EN
-> Text to translate
+[Description of the 'faq' section](https://github.com/thevenusproject-dev/database/blob/RU/faq/README.md)
 
 ## RU
-> Описание раздела faq и структуры
+[Описание структуры раздела 'faq'](https://github.com/thevenusproject-dev/database/blob/RU/faq/README.md)
