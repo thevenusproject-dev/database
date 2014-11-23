@@ -1,9 +1,4 @@
 {
-"menu_items": 
-	[
-	{
-		"link": "video",
-		"desc": "Here goes actual linkname, that will appear in top header menu."
-	}
-	]
+	"link": "video",
+	"desc": "Here goes actual linkname, that will appear in top header menu."
 }
