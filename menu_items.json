@@ -1,33 +1,28 @@
 {
-"menu_items": 
-	[
-	{
-		"link": "faq",
-		"desc": "The Venus Project F.A.Q."
-	},
-	{
-		"link": "education",
-		"name": "TVP Education"
-	},
-	{
-		"link": "video",
-		"desc": "TVP Video"
-	},
-	{
-		"link": "audio",
-		"name": "TVP Audio"
-	},
-	{
-		"link": "technology",
-		"desc": "TVP Technology"
-	},
-	{
-		"link": "library",
-		"name": "TVP Library"
-	},
-	{
-		"link": "meetings",
-		"desc": "TVP Meetings"
-	}
-	]
+	"link": "faq",
+	"desc": "The Venus Project F.A.Q."
+},
+{
+	"link": "education",
+	"name": "TVP Education"
+},
+{
+	"link": "video",
+	"desc": "TVP Video"
+},
+{
+	"link": "audio",
+	"name": "TVP Audio"
+},
+{
+	"link": "technology",
+	"desc": "TVP Technology"
+},
+{
+	"link": "library",
+	"name": "TVP Library"
+},
+{
+	"link": "meetings",
+	"desc": "TVP Meetings"
 }
