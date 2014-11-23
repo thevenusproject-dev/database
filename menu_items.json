@@ -1,33 +1,28 @@
 {
-"menu_items": 
-	[
-	{
-		"link": "faq",
-		"desc": "Вопросы о Проекте Венера"
-	},
-	{
-		"link": "education",
-		"name": "Обучение"
-	},
-	{
-		"link": "video",
-		"desc": "Видео"
-	},
-	{
-		"link": "audio",
-		"name": "Аудио"
-	},
-	{
-		"link": "technology",
-		"desc": "Доступные технологии"
-	},
-	{
-		"link": "library",
-		"name": "Библиотека"
-	},
-	{
-		"link": "meetings",
-		"desc": "Встречи активистов"
-	}
-	]
+	"link": "faq",
+	"desc": "Вопросы о Проекте Венера"
+},
+{
+	"link": "education",
+	"name": "Обучение"
+},
+{
+	"link": "video",
+	"desc": "Видео"
+},
+{
+	"link": "audio",
+	"name": "Аудио"
+},
+{
+	"link": "technology",
+	"desc": "Доступные технологии"
+},
+{
+	"link": "library",
+	"name": "Библиотека"
+},
+{
+	"link": "meetings",
+	"desc": "Встречи активистов"
 }
