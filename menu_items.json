@@ -1,6 +1,6 @@
 {
 	"link": "faq",
-	"desc": "The Venus Project F.A.Q."
+	"name": "The Venus Project F.A.Q."
 },
 {
 	"link": "education",
@@ -8,7 +8,7 @@
 },
 {
 	"link": "video",
-	"desc": "TVP Video"
+	"name": "TVP Video"
 },
 {
 	"link": "audio",
@@ -16,7 +16,7 @@
 },
 {
 	"link": "technology",
-	"desc": "TVP Technology"
+	"name": "TVP Technology"
 },
 {
 	"link": "library",
@@ -24,5 +24,5 @@
 },
 {
 	"link": "meetings",
-	"desc": "TVP Meetings"
+	"name": "TVP Meetings"
 }
