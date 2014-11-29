@@ -1,4 +1,4 @@
-The Venus Project Database - RU
+База данных проекта Венера
 ===============
 ![The Venus Project](http://i.imgur.com/0DtJ5Om.png)
 
