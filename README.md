@@ -8,8 +8,6 @@
 
 Это необходимо также и для того, чтобы корректировать информационную составляющую друг-друга (например, в другой ветке появилась информация или дополнение, которого нет в этой ветке, и наоборот - тогда действуем по схеме: сравнили изменения - перевели - дополнили). В идеале было бы неплохо привести всех к пониманию информации на одном языке (например, английский), чтобы изначально сузить круг недопонимания и минимизировать языковой барьер, а затем и разработать концепцию более удобного к восприятию языка.
 
-[1. Введение: что это и зачем это нужно?](https://github.com/thevenusproject-dev/database/wiki/0.-Introduction)
-
-[2. Структура веток и разделов](https://github.com/thevenusproject-dev/database/wiki/1.-Branches-and-overall-structure)
-
-[3. Управление версиями и форкинг](https://github.com/thevenusproject-dev/database/wiki/2.-Forking)
+[1. Введение: что это и зачем это нужно?](https://github.com/thevenusproject-dev/database/wiki/0.-Introduction)  
+[2. Структура веток и разделов](https://github.com/thevenusproject-dev/database/wiki/1.-Branches-and-overall-structure)  
+[3. Управление версиями и форкинг](https://github.com/thevenusproject-dev/database/wiki/2.-Forking)  
