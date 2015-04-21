@@ -8,6 +8,15 @@
 
 Это необходимо также и для того, чтобы корректировать информационную составляющую друг-друга (например, в другой ветке появилась информация или дополнение, которого нет в этой ветке, и наоборот - тогда действуем по схеме: сравнили изменения - перевели - дополнили). В идеале было бы неплохо привести всех к пониманию информации на одном языке (например, английский), чтобы изначально сузить круг недопонимания и минимизировать языковой барьер, а затем и разработать концепцию более удобного к восприятию языка.
 
-[1. Введение: что это и зачем это нужно?](https://github.com/thevenusproject-dev/database/wiki/0.-Introduction)  
+#### Wiki для фронтендеров и контентщиков (Database)
+
+[1. Введение и описание репозитория database](https://github.com/thevenusproject-dev/database/wiki/0.-Introduction)  
 [2. Структура веток и разделов](https://github.com/thevenusproject-dev/database/wiki/1.-Branches-and-overall-structure)  
 [3. Управление версиями и форкинг](https://github.com/thevenusproject-dev/database/wiki/2.-Forking)  
+
+#### Wiki для бекендеров и кодеров (Site)
+
+[1. Введение и описание репозитория site-constructor](https://github.com/thevenusproject-dev/site-constructor/wiki/0.-What-is-it-all-about%3F)  
+[2. В чём заключается идея такого подхода?](https://github.com/thevenusproject-dev/site-constructor/wiki/1.-The-idea-behind-all-this-stuff)  
+[3. Общая структура разделов, директории и файлы](https://github.com/thevenusproject-dev/site-constructor/wiki/2.-Dirs-and-subdirs,-overall-repo-structure)  
+[4. Что дальше? TODO-список и план на будущее](https://github.com/thevenusproject-dev/site-constructor/wiki/3.-What's-next%3F)  
