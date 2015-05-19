@@ -1,0 +1,34 @@
+[
+	{
+		"name": "Что то в переводе",
+		"name_original": "English",
+		"about": "Всяко-разно",
+		"link": "https://docs.google.com/spreadsheets/d/1XeMhIP1Z3JcwU_0xtd30sH0PMjrS_EIeOqETlAHJXCY/edit#gid=0",
+		"rel_link": "none",
+		"keywords": "test, keywords"
+	},
+	{
+		"name": "Ещё одна забавная книженция",
+		"name_original": "English",
+		"about": "442",
+		"link": "http://notabenoid.org/book/54507",
+		"rel_link": "",
+		"keywords": "test, something"
+	},
+	{
+		"name": "и ЕЩЁ",
+		"name_original": "English",
+		"about": "Всяко-разно",
+		"link": "http://translatedby.com/you/beyond-democracy/into-ru/",
+		"rel_link": "",
+		"keywords": "user"
+	},
+	{
+		"name": "Dotsub Transcribe",
+		"name_original": "English",
+		"about": "Всяко-разно",
+		"link": "https://dotsub.com/view/8468d9bf-ac45-45ee-886d-bef53741cbaf",
+		"rel_link": "",
+		"keywords": "answer"
+	}
+]
