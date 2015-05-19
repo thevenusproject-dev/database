@@ -1,34 +1,18 @@
 [
 	{
-		"name": "Что то в переводе",
-		"name_original": "English",
-		"about": "Всяко-разно",
-		"link": "https://docs.google.com/spreadsheets/d/1XeMhIP1Z3JcwU_0xtd30sH0PMjrS_EIeOqETlAHJXCY/edit#gid=0",
-		"rel_link": "none",
-		"keywords": "test, keywords"
-	},
-	{
-		"name": "Ещё одна забавная книженция",
-		"name_original": "English",
-		"about": "442",
+		"name": "100 000 000 морских свинок: опасности в продуктах питания, препаратах и косметике",
+		"name_original": "100,000,000 Guinea Pigs: Dangers in Everyday Foods, Drugs, and Cosmetics",
+		"about": "Одна из книг, рекомендованная Жаком Фреско, в которой рассказывается о вреде в наших повседневных продуктах питания и фармацевтике.",
 		"link": "http://notabenoid.org/book/54507",
-		"rel_link": "",
-		"keywords": "test, something"
+		"rel_link": "https://vk.com/id17239458",
+		"keywords": "опасные лекарства, мошенники, неработающие законы, система здравоохранения"
 	},
 	{
-		"name": "и ЕЩЁ",
-		"name_original": "English",
-		"about": "Всяко-разно",
-		"link": "http://translatedby.com/you/beyond-democracy/into-ru/",
-		"rel_link": "",
-		"keywords": "user"
-	},
-	{
-		"name": "Dotsub Transcribe",
-		"name_original": "English",
-		"about": "Всяко-разно",
-		"link": "https://dotsub.com/view/8468d9bf-ac45-45ee-886d-bef53741cbaf",
-		"rel_link": "",
-		"keywords": "answer"
+		"name": "Перевод журнала TVP #17",
+		"name_original": "TVP Magazine #17 Human VS Machine",
+		"about": "Переводится на cotranslate. Чтобы помочь в переводе, нужно зарегестрироваться на портале.",
+		"link": "http://cotranslate.net/translations/texts/13041",
+		"rel_link": "https://vk.com/vradko",
+		"keywords": "TVP Magazine, журнал проекта Венера"
 	}
 ]
