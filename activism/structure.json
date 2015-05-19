@@ -1,0 +1,18 @@
+[
+	{
+		"file": "translations",
+		"name": "Переводы EN→RU"
+	},
+	{
+		"file": "video_sorting",
+		"name": "Упорядочивание видео"
+	},
+	{
+		"file": "verbatim_report",
+		"name": "Выписка слов с видео"
+	},
+	{
+		"file": "ocr",
+		"name": "Оцифровка + разбор текста"
+	}
+]
