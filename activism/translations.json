@@ -8,6 +8,14 @@
 		"keywords": "linguistic team RU, перевод различных роликов, доска заданий"
 	},
 	{
+		"name": "Перевод журнала TVP",
+		"name_original": "TVP Magazine Issue #2 ",
+		"about": "Перевод журнала с помощью Google Sheets. Переводить может любой желающий - подключайтесь =) В данном файле переводится второй номер журнала, начиная с последних страниц, т.к. некоторые статьи уже имеются в переводе",
+		"link": "https://docs.google.com/spreadsheets/d/17Nxk8BMZxc8iwH67ClD7HOBY8ZqVicatRLUED5njSBE",
+		"rel_link": "https://vk.com/scsmash3r",
+		"keywords": "TVP Magazine 2, журнал проекта Венера"
+	},
+	{
 		"name": "100 000 000 морских свинок: опасности в продуктах питания, препаратах и косметике",
 		"name_original": "100,000,000 Guinea Pigs: Dangers in Everyday Foods, Drugs, and Cosmetics",
 		"about": "Одна из книг, рекомендованная Жаком Фреско, в которой рассказывается о вреде в наших повседневных продуктах питания и фармацевтике.",
@@ -21,7 +29,7 @@
 		"about": "Переводится на cotranslate, начиная с 16 номера. Чтобы помочь в переводе, нужно зарегестрироваться на портале.",
 		"link": "http://cotranslate.net/group/perevody-tvp-mag",
 		"rel_link": "https://vk.com/vradko",
-		"keywords": "TVP Magazine, журнал проекта Венера"
+		"keywords": "TVP Magazine 16, TVP Magazine 17, журнал проекта Венера"
 	},
 	{
 		"name": "Тирания слов. Стюарт Чейз",
